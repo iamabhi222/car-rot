@@ -7,7 +7,6 @@
 - This site is build from stratch only for neXus using html,css and js.
 - A particular theme have been followed throughout the website.
 - Website is deployed at AWS and is powered by nginx.
-- Website can handle upto 50k-80k concurrent requests per second.
 - Site is also DDOS protected by cloudflare.
 - Website allows only https traffic.
 - All images used in the site are optimized.
@@ -36,9 +35,7 @@ This is based on the concept of a car rental website, here we can rent any Suv, 
 
 ## SEO:
 
-All care have been taken for best practices and to improve the sites seo, below is an image of chrome lighthouse test for seo and best practices:
-
-**We got 100% seo optimisation and 93% best practices according to chrome lighthouse**
+All care have been taken for best practices and to improve the sites seo.
 
 ## Workflow:
 
