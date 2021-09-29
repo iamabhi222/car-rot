@@ -1,5 +1,11 @@
 # neXus: car-rot
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 **Hello, we're CAR-ROT, your new premium car rental service. We know you're always busy. No time to wait for your cab. So let us take care of that, we're really good at it, we promise!**
 
 ### About the site:
